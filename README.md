@@ -8,7 +8,7 @@ Features
     Flexible and customizable for different reference genomes and datasets.
 
 Installation
-1. Install Dependencies
+Install Dependencies
 
 The pipeline requires the following software. Install them via conda: <br/>
 `conda create -n draVAR_env -c bioconda -c conda-forge \
@@ -46,7 +46,7 @@ Contribution
 
 Feel free to fork the repository and submit pull requests to improve the pipeline.
 
-For questions or issues, contact [Ankita Pal] at [ap578817@gmail.com].
+For questions or issues, contact Ankita Pal at ap578817@gmail.com.
 
 Example <br/>
 `DraVAR.sh --ref 'AL123456.gb' --R1 'reads_1.fastq.gz' --R2 'reads_2.fastq.gz' --prefix 'example' --output 'results'`
