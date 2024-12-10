@@ -51,7 +51,7 @@ For questions or issues, contact Ankita Pal at ap578817@gmail.com.
 Example <br/>
 `DraVAR.sh --ref 'AL123456.gb' --R1 'reads_1.fastq.gz' --R2 'reads_2.fastq.gz' --prefix 'example' --output 'results'`<br/>
 You can also run using nextflow<br/>
-`nextflow run pipeline.nf --ref /path/to/reference.gb --reads1 /path/to/reads_1.fastq.gz --reads2 /path/to/reads_2.fastq.gz --prefix your_prefix --output_dir /path/to/output'
+`nextflow run pipeline.nf --ref /path/to/reference.gb --reads1 /path/to/reads_1.fastq.gz --reads2 /path/to/reads_2.fastq.gz --prefix your_prefix --output_dir /path/to/output`
 
 
     
