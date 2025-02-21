@@ -1,5 +1,5 @@
 # DraVAR
-DraVAR (Drug Resistance Variant Analysis and Reporting) is a pipeline for analyzing genomic data to identify variants associated with drug resistance. The pipeline integrates tools for quality control, alignment, variant calling, and annotation.
+DraVAR (Drug Resistance Associated VARiant detector) is a pipeline for analyzing genomic data to identify variants associated with drug resistance. The pipeline integrates tools for quality control, alignment, variant calling, annotation and gradation as per drug resistance association in _Mycobacterium tuberculosis_ using statistical matrics.
 
 Features
 
