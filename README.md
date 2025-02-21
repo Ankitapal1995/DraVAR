@@ -34,7 +34,7 @@ The pipeline requires three input files: <br/>
 Run the Pipeline
 
 Run the pipeline with the following command:<br/>
-`sh DraVAR.sh --ref 'ref.gb' --R1 reads_1.fastq.gz --R2 reads_2.fastq.gz --prefix prefix --output out` <br/>
+`sh DraVAR.sh --ref 'ref.gb' --R1 reads_1.fastq.gz --R2 reads_2.fastq.gz --prefix prefix --output out` <br/> <br/>
 Parameters <br/>
 
     --ref: Path to the reference genome in .gb or .gbk format.
